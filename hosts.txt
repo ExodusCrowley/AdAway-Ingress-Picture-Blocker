@@ -1,0 +1,16 @@
+127.0.0.1 localhost 
+::1 localhost
+
+# [Ingress]
+127.0.0.1 lh1.ggpht.com
+127.0.0.1 lh2.ggpht.com
+127.0.0.1 lh3.ggpht.com
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 lh4.ggpht.com
+127.0.0.1 lh5.ggpht.com
+127.0.0.1 lh6.ggpht.com
+127.0.0.1 lh7.ggpht.com
+127.0.0.1 lh8.ggpht.com
+127.0.0.1 lh9.ggpht.com
+127.0.0.1 mw2.google.com
+127.0.0.1 www.panoramio.com
