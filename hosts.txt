@@ -14,4 +14,3 @@
 127.0.0.1 lh9.ggpht.com
 127.0.0.1 mw2.google.com
 127.0.0.1 www.panoramio.com
-127.0.0.1 http://goldesel.to/
