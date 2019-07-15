@@ -1,7 +1,11 @@
 127.0.0.1 localhost 
 ::1 localhost
 
-# [Ingress]
+# [Ingress pBlocker]
+# [Version 1.1]
+# [20190715]
+# [by ExodusCrowley]
+# [script]
 127.0.0.1 lh1.ggpht.com
 127.0.0.1 lh2.ggpht.com
 127.0.0.1 lh3.ggpht.com
