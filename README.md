@@ -1,3 +1,4 @@
-# Add this URL to AdAway to Block Pictures in Ingress:
-<p>https://raw.githubusercontent.com/ExodusCrowley/Ingress-Hosts/master/Hosts.txt</p>
+# AdAway-Ingress-Picture-Blocker
+<p/>
+# https://raw.githubusercontent.com/ExodusCrowley/AdAway-Ingress-Picture-Blocker/master/Hosts.txt
 
